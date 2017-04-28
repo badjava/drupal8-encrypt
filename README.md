@@ -8,8 +8,6 @@ The Drupal 8 site installation is based on [drupal-composer/drupal-project](http
 
 ## Installation
 
-To install the Drupal 8 site, install composer and then run the following command:
+Clone the repo into a vhost folder and install Drupal as usual. Additional instructions on how to use composer create-project in the future.
 
-```
-composer create-project badjava/drupal8-encrypt:dev-8.x some-dir --stability dev --no-interaction -vvv
-```
+
